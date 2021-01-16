@@ -1,11 +1,11 @@
 import React from 'react';
 import {Link} from 'react-router-dom'
-import logo from '../../Logo.png'
-import logo2 from '../../logo2.png'
-import email from '../../Desain tanpa judul (1).png'
-import ig from '../../ig.png'
-import lk from '../../link.png'
-import tw from '../../tw.png'
+import logo from '../../image/Logo.png'
+import logo2 from '../../image/logo2.png'
+import email from '../../image/Desain tanpa judul (1).png'
+import ig from '../../image/ig.png'
+import lk from '../../image/link.png'
+import tw from '../../image/tw.png'
 import '../../LandingPage.css'
 
 export const LandingPage = () => {
