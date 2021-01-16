@@ -37,19 +37,19 @@ export const LandingPage = () => {
             <div className="clearfix"></div>
             <div className="footer">
                 <div className="sosmed">
-                    <a href="mailto:ramdhanfirdaus5@gmail.com" className="ig">
+                    <a href="https://www.instagram.com/r_adam29/" target="_blank" className="ig">
                         <button>
                             <img src={ig} />
                             <p>Instagram</p>
                         </button>
                     </a>
-                    <a href="mailto:ramdhanfirdaus5@gmail.com" className="lk">
+                    <a href="https://www.linkedin.com/in/ramdhan-firdaus-amelia-979a171b9/" target="_blank" className="lk">
                         <button>
                             <img src={lk} />
                             <p>LinkedIn</p>
                         </button>
                     </a>
-                    <a href="mailto:ramdhanfirdaus5@gmail.com" className="tw">
+                    <a href="https://twitter.com/combodoh_" target="_blank" className="tw">
                         <button>
                             <img src={tw} />
                             <p>Twitter</p>
