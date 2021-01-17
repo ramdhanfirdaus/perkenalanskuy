@@ -8,9 +8,17 @@ import lk from '../../image/link.png'
 import tw from '../../image/tw.png'
 import '../../LandingPage.css'
 
+import { Helmet } from 'react-helmet'
+
+const TITLE = 'Just Combodoh'
+
 export const LandingPage = () => {
     return (
         <div>
+            <Helmet>
+                <title>{TITLE}</title>
+            </Helmet>
+            <title>RAFS AMELIA</title>
             <div className="header">
                 <Link className="logoawal" to='/'>
                     <img src={logo} alt="Logo" />
