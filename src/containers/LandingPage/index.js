@@ -24,7 +24,7 @@ export const LandingPage = () => {
             <div className="mail">
                 <a href="mailto:ramdhanfirdaus5@gmail.com">
                     <button>
-                        <img src={email} />
+                        <img src={email} alt='email' />
                         <p>Contact Me</p>
                     </button>
                 </a>
@@ -37,21 +37,21 @@ export const LandingPage = () => {
             <div className="clearfix"></div>
             <div className="footer">
                 <div className="sosmed">
-                    <a href="https://www.instagram.com/r_adam29/" target="_blank" className="ig">
+                    <a href="https://www.instagram.com/r_adam29/" target="_blank" rel="noreferrer" className="ig">
                         <button>
-                            <img src={ig} />
+                            <img src={ig} alt='instagram' />
                             <p>Instagram</p>
                         </button>
                     </a>
-                    <a href="https://www.linkedin.com/in/ramdhan-firdaus-amelia-979a171b9/" target="_blank" className="lk">
+                    <a href="https://www.linkedin.com/in/ramdhan-firdaus-amelia-979a171b9/" target="_blank" rel="noreferrer" className="lk">
                         <button>
-                            <img src={lk} />
+                            <img src={lk} alt='linkedin' />
                             <p>LinkedIn</p>
                         </button>
                     </a>
-                    <a href="https://twitter.com/combodoh_" target="_blank" className="tw">
+                    <a href="https://twitter.com/combodoh_" target="_blank" rel="noreferrer" className="tw">
                         <button>
-                            <img src={tw} />
+                            <img src={tw} alt='twitter' />
                             <p>Twitter</p>
                         </button>
                     </a>
