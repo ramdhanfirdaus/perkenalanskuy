@@ -31,8 +31,8 @@ export const LandingPage = () => {
             </div>
             <div className="clearfix"></div>
             <div className="desc">
-                <p className="left">Currently a student as well as staff of the academia and faculty Bimbingan Belajar Gratis (BETIS) UI 2021.</p>
-                <p className="right">Previously had an internship at BEM Fasilkom UI as Information Technology Development and was part of Pemira IKM Fasilkom 2020.</p>
+                <p className="left">Currently a student as well as staff of academic division Bimbingan Belajar Gratis (BETIS) UI 2021.</p>
+                <p className="right">Previously had an internship at BEM Fasilkom UI in Information Technology Development and was part of Pemira IKM Fasilkom 2020.</p>
             </div>
             <div className="clearfix"></div>
             <div className="footer">
